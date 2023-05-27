@@ -1,0 +1,40 @@
+.container{
+       display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  height: 100vh; 
+  padding-left: 20px
+};
+.container img {
+    height: 400px;
+    width: 400px;
+    max-width: 100%;
+}
+
+.imagen{
+    height: 400px;
+    width: 400px;
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+.container h2 {
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.container h3{
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.container span {
+    color: orange;
+    font-size: 50px;
+}
+
+.container p {
+     color: aliceblue;
+    font-size: 20px;
+}
